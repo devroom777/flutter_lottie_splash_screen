@@ -1,4 +1,5 @@
 # Flutter Channel stable, 3.32.0
+# Lottie
 # splash_screen
    - Lottie asset
 # home_page
