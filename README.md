@@ -5,6 +5,6 @@
 
 
 # Developing packages & plugins
-  lottie: ^3.3.1
-  path_provider: ^2.1.5
-  http: ^1.4.0
+  - lottie: ^3.3.1
+  - path_provider: ^2.1.5
+  - http: ^1.4.0
