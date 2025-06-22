@@ -1,2 +1,4 @@
 # splash_screen
- Lottie asset, network, file, memory
+   - Lottie asset
+# home_page
+   - Lottie asset, network, file, memory
